@@ -20,6 +20,7 @@ This project demonstrates the integration of MongoDB with NestJS using TypeScrip
 ## Prerequisites
 
 - Node.js
+- Nest.js
 - MongoDB
 - TypeScript
 
